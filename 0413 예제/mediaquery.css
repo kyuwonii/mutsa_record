@@ -1,0 +1,17 @@
+.container{  
+    /*모바일에 표시될 내용*/
+    width:100%;
+    height:200px;
+    background-color: orange;
+    text-align: center;
+}
+
+@media screen and (min-width:700px){
+    /*데스크탑에 표시될 내용*/
+    .container{
+        width:100%;
+        height:150px;
+        background:yellowgreen;
+    }
+}
+

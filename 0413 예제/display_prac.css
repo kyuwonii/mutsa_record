@@ -1,0 +1,27 @@
+body{
+    background-color: #e7e7e7;
+}
+
+div{
+    width: 200px;
+    height: 20px;
+    border: 1px solid;
+    padding: 5px;
+    margin: 10px;
+}
+
+span{
+    width: 200px;
+    height: 20px;
+    border: 1px solid;
+    padding: 5px;
+    margin: 10px;
+}
+
+.div1{background-color: #e6d1ff;}
+.div2{background-color: #b779ff;}
+.div3{background-color: #871fff;}
+
+.span1{background-color: #c4ffeb;}
+.span2{background-color: #82ffd5;}
+.span3{background-color: #2bf8b4;}
